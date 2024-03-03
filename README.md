@@ -54,11 +54,11 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol>
 
+### Program:
 ```
 Name: Sai Eswar Kandukuri
 Reg. No: 212221240020
 ```
-### Program
 ```python
 from collections import defaultdict
 def dfs(graph,start,visited,path):
