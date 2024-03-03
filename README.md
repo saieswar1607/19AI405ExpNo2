@@ -83,7 +83,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
 ### Sample Input:
-
+```
 8 9 <BR>
 A B <BR>
 A C <BR>
@@ -94,7 +94,7 @@ C G <BR>
 D F <BR>
 G F <BR>
 F H <BR>
-
+```
 ### Sample Output:
 ```
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
