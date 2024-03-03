@@ -94,7 +94,7 @@ C G <BR>
 D F <BR>
 G F <BR>
 F H <BR>
-```
+
 <h3>Sample Output</h3>
 ```
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
